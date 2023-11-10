@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Frontend web development
 - 🌱 I’m currently learning ... HTML, CSS & Javascript
 - 💞️ I’m looking to collaborate on ... Javascript project that can help me understand the coding world better.
-- 📫 How to reach me ... 
+- 📫 How to reach me ... mews@protonmail.ch
 
 <!---
 TerryLoc/TerryLoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
