@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Terry @TerryLoc on the road to being a React Developer. 
+- 👋 Hi, I’m Terry @TerryLoc on the road to being a Junior Web Developer. 
 - 👀 I’m interested in ... Frontend web development
-- 🌱 I’m currently learning ... HTML, CSS, Javascript and React.
+- 🌱 I’m currently learning ... HTML, CSS, Javascript and React. While aslo do a diploma in fulstack.
 - 💞️ I’m looking to collaborate on ... Javascript/ React projects that can help me understand the coding world better.
 - 📫 How to reach me ... mews@protonmail.ch
 
