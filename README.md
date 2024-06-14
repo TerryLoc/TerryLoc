@@ -18,7 +18,7 @@ I am looking to collaborate on JavaScript/React projects that can help me gain p
 - **Frontend Web Development**: I am particularly interested in the latest trends and best practices in frontend development.
 
 ## Contact Me
-- **Email**: [Drop me an email top get in touch](terryloughran@gmail.com)
+- **Email**: [Drop me an email to get in touch](terryloughran@gmail.com)
 - **LinkedIn**: [We can connect on LinkedIn](https://www.linkedin.com/in/terryloughran/)
 - **GitHub**: [Do check out my work](https://github.com/TerryLoc)
 
