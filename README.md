@@ -18,8 +18,8 @@ I am looking to collaborate on JavaScript/React projects that can help me gain p
 - **Frontend Web Development**: I am particularly interested in the latest trends and best practices in frontend development.
 
 ## Contact Me
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **GitHub**: [your-github-profile](https://github.com/your-github-profile)
+- **Email**: [Drop me an email top get in touch](terryloughran@gmail.com)
+- **LinkedIn**: [You can also connect on LinkedIn](https://www.linkedin.com/in/terryloughran/)
+- **GitHub**: [You can also check out my work](https://github.com/TerryLoc)
 
 Thank you for visiting my GitHub profile! Let's connect and create something amazing together.
