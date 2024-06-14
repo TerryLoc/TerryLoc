@@ -20,6 +20,6 @@ I am looking to collaborate on JavaScript/React projects that can help me gain p
 ## Contact Me
 - **Email**: [Drop me an email to get in touch](terryloughran@gmail.com)
 - **LinkedIn**: [We can connect on LinkedIn](https://www.linkedin.com/in/terryloughran/)
-- **GitHub**: [Do check out my work](https://github.com/TerryLoc)
+- **GitHub**: [Do check out my work](https://github.com/TerryLoc?tab=repositories)
 
 Thank you for visiting my GitHub profile! Let's connect and create something amazing together.
