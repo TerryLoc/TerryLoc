@@ -1,7 +1,7 @@
 # Hi, I'm Terry 👋
 
 ## About Me
-I am a Junior Web Developer with a strong foundation in HTML, CSS, and JavaScript fundamentals. Currently, I am pursuing a diploma in Full Stack Development at Code Institute. My passion lies in Frontend Web Development, and I am eager to expand my knowledge and skills in this area.
+I am a Junior Web Developer with a strong foundation in HTML, CSS, and JavaScript fundamentals. Currently, I am pursuing a diploma in Full Stack Development at Code Institute. My passion lies in Frontend Web Development, and I am eager to expand my knowledge and skills in this area. [You can checkout my portfolio here.](https://terryloughran.netlify.app/)
 
 ## Skills
 - **HTML**: Proficient in creating well-structured and semantic web pages.
