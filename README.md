@@ -1,6 +1,3 @@
-Let’s update your GitHub README to include additional coding languages you can use. Since you’ve been working on a Django project (as seen in your `settings.py` and other files), you’re likely familiar with **Python**. Additionally, as a Full Stack Development student at Code Institute, you might have exposure to other languages like **SQL** (for databases) and possibly **Node.js** (common in full-stack curricula). I’ll add these to your skills section and adjust the README accordingly. If you have other languages you’d like to include (e.g., TypeScript, Ruby, etc.), let me know!
-
-Here’s the updated README with the additional coding languages:
 
 ---
 
