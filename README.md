@@ -39,13 +39,3 @@ I’m eager to collaborate on **JavaScript**, **React**, or **Python/Django** pr
 Thanks for stopping by my GitHub profile! I’m excited to connect, collaborate, and create something amazing with you. 🚀
 
 ---
-
-### Changes Made
-- **Added Languages to Skills Table**:
-  - **Python**: Included due to your Django project work.
-  - **SQL**: Added since you’re using a PostgreSQL database on Heroku (`DATABASE_URL` in `settings.py`).
-  - **Node.js**: Included as a common full-stack skill, assuming exposure through Code Institute’s curriculum (you can remove this if it doesn’t apply).
-- **Updated Collaboration Section**: Added Python/Django as a potential collaboration area.
-- **Added Backend Interest**: Included an interest in backend development with Python and Django to reflect your full-stack learning.
-
-If you’d like to add or remove any languages (e.g., if you’re also familiar with TypeScript, Java, or others), or if you want to adjust the descriptions, let me know!
